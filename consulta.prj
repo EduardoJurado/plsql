@@ -1,0 +1,40 @@
+PL/SQL Developer Project
+
+[Options]
+AutoConnect=0
+Username=auto00
+Password=27474285448732013211506150393065307530533079340930673061419141693395
+Database=cloud
+ConnectAs=Normal
+Edition=
+Workspace=
+HaltAfterError=0
+BrowseHistory=0
+FileBrowser=0
+BeautfierRulesFile=
+VersionControl=1
+VersionControlPath=D:\proyectos\plsql\plsql
+ShowItems=-1
+
+[History]
+Programs=C:\Users\USUARIO\Desktop
+SQL Scripts=D:\proyectos
+Report Files=
+Test Scripts=
+Command Scripts=
+Diagram Files=
+
+[BrowserFolders]
+
+
+[Groups]
+
+[Files]
+1,0,,,primera.sql
+1,0,,,segunda.sql
+
+[Notes]
+{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil Arial;}}
+{\*\generator Riched20 10.0.22621}\viewkind4\uc1 
+\pard\f0\fs20\lang2058\par
+}
